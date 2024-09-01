@@ -1,5 +1,5 @@
 ## Note
-Few functions are not working on the website due to the size of files 
+Few functions are not working on the website due to the size of files .. Working on those changes
 
 # Apoorv Nath Tripathi's Portfolio
 
