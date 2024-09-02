@@ -1,4 +1,5 @@
 ## Note
+
 Few functions are not working on the website due to the size of files .. Working on those changes
 
 # Apoorv Nath Tripathi's Portfolio
@@ -7,7 +8,7 @@ Welcome to my personal portfolio website! This site is built using React and 3JS
 
 ## Website
 
-Visit the live website: [https://leafy-baklava-1ed370.netlify.app/](https://leafy-baklava-1ed370.netlify.app/)
+Visit the live website: [https://leafy-baklava-1ed370.netlify.app/](https://main--sweet-gumdrop-add698.netlify.app/)
 
 ## Features
 
@@ -31,3 +32,4 @@ To run this project locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/noobapoo99/new_portfolio.git
+   ```
