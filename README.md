@@ -1,7 +1,3 @@
-## Note
-
-Few functions are not working on the website due to the size of files .. Working on those changes
-
 # Apoorv Nath Tripathi's Portfolio
 
 Welcome to my personal portfolio website! This site is built using React and 3JS, showcasing my skills, projects, and experiences.
