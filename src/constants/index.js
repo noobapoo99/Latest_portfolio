@@ -162,7 +162,7 @@ const projects = [
       },
     ],
     image: Real_img,
-    source_code_link: "https://github.com/noobapoo99/Real_estate.git",
+    source_code_link: "https://github.com/noobapoo99/property",
   },
   {
     name: "React-Shopping",
@@ -179,7 +179,7 @@ const projects = [
       },
     ],
     image: React_shop,
-    source_code_link: "https://github.com/noobapoo99/photo__gallery.git",
+    source_code_link: "https://main--comforting-frangollo-f05cee.netlify.app/",
   },
   {
     name: "BLOOD BANK WEBSITE",
@@ -200,7 +200,7 @@ const projects = [
       },
     ],
     image: BLOOD,
-    source_code_link: "https://github.com/noobapoo99/ircs_main.git",
+    source_code_link: "https://github.com/noobapoo99",
   },
   {
     name: "QUIZ",
