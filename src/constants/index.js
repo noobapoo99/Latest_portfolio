@@ -20,6 +20,7 @@ import {
   React_shop,
   gallery,
   threejs,
+  NCL,
 } from "../assets";
 
 export const navLinks = [
@@ -117,12 +118,24 @@ const experiences = [
     title: "Material Discovery - Machine Learning",
     company_name: "BITS PILANI",
     icon: bits,
-    iconBg: "#fffffff",
+    iconBg: "#ffffff",
     date: "JAN 2024 - MAY 2024",
     points: [
       "Working under Professor Ghosh's project which spans chemistry, physics, and computer science to accelerate material discovery.",
       "Advanced machine learning analyzes data, predicting novel materials effectively using algorithms like neural networks and decision trees.",
       "Focus on sustainable, high-performance materials for renewable energy, electronics, and healthcare applications.",
+    ],
+  },
+  {
+    title: "Material Discovery - Machine Learning",
+    company_name: "BITS PILANI",
+    icon: NCL,
+    iconBg: "#ffffff",
+    date: "MAY 2024 - AUGUST 2024",
+    points: [
+      "Leading the development of a GUI-based tool for predicting thermal runaway reactions using the Inherent Thermal Hazard Index",
+      " This project helps reduce risks in chemical processes by forecasting potential thermal hazards through predictive ML models",
+      "For this, we are using tools such as MS Excel, Power BI, and Python libraries like Scikit-learn to develop predictive ML models",
     ],
   },
 ];

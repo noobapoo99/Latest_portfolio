@@ -30,6 +30,7 @@ import tesla from "./company/tesla.png";
 import React_shop from "./React_shop.png";
 
 import carrent from "./carrent.png";
+import NCL from "./CSIR-NCL_Logo.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import Real_img from "./Real_img.png";
@@ -73,4 +74,5 @@ export {
   React_shop,
   Real_img,
   tripguide,
+  NCL,
 };
