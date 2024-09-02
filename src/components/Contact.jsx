@@ -39,7 +39,7 @@ const Contact = () => {
         "template_v74621q",
         {
           from_name: form.name,
-          to_name: "JavaScript Mastery",
+          to_name: "Apoorv Nath Tripathi",
           from_email: form.email,
           to_email: "sujata@jsmastery.pro",
           message: form.message,
