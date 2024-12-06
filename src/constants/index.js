@@ -200,7 +200,7 @@ const projects = [
       },
     ],
     image: BLOOD,
-    source_code_link: "https://github.com/noobapoo99",
+    source_code_link: "https://github.com/noobapoo99/IRCS_deploy",
   },
   {
     name: "QUIZ",

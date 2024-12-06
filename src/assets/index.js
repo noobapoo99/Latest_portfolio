@@ -36,7 +36,7 @@ import tripguide from "./tripguide.png";
 import Real_img from "./Real_img.png";
 import quiz from "./quiz.png";
 import gallery from "./gallery.png";
-import BLOOD from "./BLOOD.png";
+import BLOOD from "./ircs_deployed.png";
 
 export {
   logo,
