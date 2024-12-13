@@ -21,6 +21,7 @@ import {
   gallery,
   threejs,
   NCL,
+  LitedIn,
 } from "../assets";
 
 export const navLinks = [
@@ -131,7 +132,7 @@ const experiences = [
     company_name: "NCL Pune",
     icon: NCL,
     iconBg: "#ffffff",
-    date: "MAY 2024 - AUGUST 2024",
+    date: "MAY 2024 - DECEMBER 2024",
     points: [
       "Leading the development of a GUI-based tool for predicting thermal runaway reactions using the Inherent Thermal Hazard Index",
       "This project helps reduce risks in chemical processes by forecasting potential thermal hazards through predictive ML models",
@@ -164,39 +165,41 @@ const projects = [
     image: Real_img,
     source_code_link: "https://github.com/noobapoo99/property",
   },
+
   {
-    name: "React-Shopping",
+    name: "LITEDIN",
     description:
-      "This is a responsive React-based shopping cart application. The app displays a list of products, allows users to filter products by various criteria, and manage their cart for checkout. The app is mobile-friendly and features a dynamic filter system for both small and large screens.",
+      "A web-based platform for hostel management, enabling resident profile views, issue reporting via an interactive map. It also includes a Party Mode for hosting events, promoting social connections among residents.",
     tags: [
       {
-        name: "HTML",
+        name: "MERN",
         color: "blue-text-gradient",
       },
       {
-        name: "CSS",
+        name: "DBMS",
         color: "green-text-gradient",
       },
+      {
+        name: "SYSTEM DESIGN",
+        color: "pink-text-gradient",
+      },
     ],
-    image: React_shop,
-    source_code_link: "https://main--comforting-frangollo-f05cee.netlify.app/",
+    image: LitedIn,
+    source_code_link: "https://github.com/noobme27/MY_hostel",
   },
+
   {
     name: "BLOOD BANK WEBSITE",
     description:
       "A web-based platform that allows users to find and schedule blood donation appointments, connect with local blood banks, and manage their donation history, providing a convenient ant solution for saving lives.",
     tags: [
       {
-        name: "HTML",
+        name: "MERN",
         color: "blue-text-gradient",
       },
       {
-        name: "CSS",
+        name: "DBMS",
         color: "green-text-gradient",
-      },
-      {
-        name: "PHP",
-        color: "pink-text-gradient",
       },
     ],
     image: BLOOD,
@@ -222,6 +225,23 @@ const projects = [
     ],
     image: quiz,
     source_code_link: "https://github.com/noobapoo99/quiz.git",
+  },
+  {
+    name: "React-Shopping",
+    description:
+      "This is a responsive React-based shopping cart application. The app displays a list of products, allows users to filter products by various criteria, and manage their cart for checkout. The app is mobile-friendly and features a dynamic filter system for both small and large screens.",
+    tags: [
+      {
+        name: "REACT JS",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "DAISY-UI",
+        color: "green-text-gradient",
+      },
+    ],
+    image: React_shop,
+    source_code_link: "https://main--comforting-frangollo-f05cee.netlify.app/",
   },
   {
     name: "Photo Gallery",

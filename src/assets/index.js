@@ -28,6 +28,7 @@ import ircs from "./company/ircs.png";
 import bits from "./company/bits.png";
 import tesla from "./company/tesla.png";
 import React_shop from "./React_shop.png";
+import LitedIn from "./litedin.png";
 
 import carrent from "./carrent.png";
 import NCL from "./CSIR-NCL_Logo.png";
@@ -75,4 +76,5 @@ export {
   Real_img,
   tripguide,
   NCL,
+  LitedIn,
 };
